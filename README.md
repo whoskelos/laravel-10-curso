@@ -9,4 +9,8 @@
 
 ## About this project
 
+<p>Proyecto del curso de aprendible para aprender aspectos esenciales de Laravel 10</p>
+
+### Vista Chirps
+
 ![Vista de los chirps](/public/vista-chirps.png)
