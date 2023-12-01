@@ -143,5 +143,9 @@
     "You're logged in!": "¡Usted está conectado!",
     "Your email address is unverified.": "Su dirección de correo electrónico no está verificada.",
     "What's on your mind?": "¿Qué tienes en mente?",
-    "Chirp created successfully!": "Chirp creado con éxito!"
+    "Chirp created successfully!": "Chirp creado con éxito!",
+    "Edit Chirp": "Editar Chirp",
+    "Chirp updated successfully!": "Chirp actualizado con éxito!",
+    "Delete Chirp": "Eliminar Chirp",
+    "Chirp deleted successfully!": "Chirp eliminado con éxito!"
 }
